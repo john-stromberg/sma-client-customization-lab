@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [portfolio-analytics/projects/sma-client-customization-lab](https://github.com/john-stromberg/portfolio-analytics/tree/main/projects/sma-client-customization-lab).
+> This repository is retained as a historical snapshot.
+
+---
+
 # sma-client-customization-lab
 
 Track: **SMA Portfolio Management**
